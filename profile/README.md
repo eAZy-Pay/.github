@@ -7,3 +7,4 @@
 # 팀원 소개
 # 협업
 # 기술 스택
+![image](https://github.com/eAZy-Pay/.github/assets/75118893/1e903d39-bb0b-4b2a-8cce-48ff1ed74281)
