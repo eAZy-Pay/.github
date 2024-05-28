@@ -1,7 +1,6 @@
 # 세상에서 가장 쉽고 편리한 결제 - eAZyPay
 
 # 서비스 소개
-![image](https://github.com/eAZy-Pay/.github/assets/151506984/893fcb23-9a5e-4bf6-b37f-617e628c2d40)
 # 기능 소개
 ## 개인 맞춤 카드추천
 ## 결제
