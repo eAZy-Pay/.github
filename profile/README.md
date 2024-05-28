@@ -1,5 +1,6 @@
 ![image](https://github.com/eAZy-Pay/.github/assets/75118893/3ea8d2c6-5d6c-462b-8ebc-4c7ce52de326)
 # 서비스 소개
+
 # 기능 소개
 ## 개인 맞춤 카드추천
 ![image](https://github.com/eAZy-Pay/.github/assets/75118893/00d406c3-5999-4cac-a91c-bb42bb2bb019)
