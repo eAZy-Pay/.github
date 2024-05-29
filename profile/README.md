@@ -1,16 +1,18 @@
 ![image](https://github.com/eAZy-Pay/.github/assets/75118893/3ea8d2c6-5d6c-462b-8ebc-4c7ce52de326)
 # 서비스 소개
 `eAZy-Pay` 는 세상에서 가장 쉽고 편리한 결제 서비스입니다.
-## 서비스 대상자
-## 🤯 **카드 결제 시 카드 별 할인 혜택과 실적을 계산하는 데에 지친 소비자**
+### 서비스 대상자
+카드 결제 시 카드 별 할인 혜택과 실적을 계산하는 데에 지친 소비자
+<br>
+<br>
 
 # 기능 소개
-## 개인 맞춤 카드추천
+## 기능 1 : 개인 맞춤 카드추천
 ![image](https://github.com/eAZy-Pay/.github/assets/75118893/00d406c3-5999-4cac-a91c-bb42bb2bb019)
 ![image](https://github.com/eAZy-Pay/.github/assets/75118893/e24d1d69-0b0a-42b8-a9bd-2aed78afa4c2)
 
 
-## 결제
+## 기능 2 : 결제
 ![image](https://github.com/eAZy-Pay/.github/assets/75118893/f00cc251-0903-4400-8d58-01fe9a40d966)
 ![image](https://github.com/eAZy-Pay/.github/assets/75118893/b4b5bed9-2c1b-4b6f-b781-2870b38387cc)
 
