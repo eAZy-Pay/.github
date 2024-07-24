@@ -5,6 +5,11 @@
 카드 결제 시 카드 별 할인 혜택과 실적을 계산하는 데에 지친 소비자
 <br>
 <br>
+# 시연 영상
+https://github.com/user-attachments/assets/45b3fb27-0104-4673-8751-14220ea8eb89
+
+<br>
+<br>
 
 # 기능 소개
 ## 기능 1 : 개인 맞춤 카드추천
